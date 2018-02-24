@@ -204,7 +204,6 @@ div#bs-example-navbar-collapse-1 {
 }
 .w3ls-special-img {
   padding: 0 !important;
-  height: 171px;
   background-size: cover;
   text-align: center;
   position: relative;
@@ -212,6 +211,7 @@ div#bs-example-navbar-collapse-1 {
 }
 .w3ls-special-img img {
   width: 100%;
+  height: 171px;
   padding: 0 !important;
 }
 .agileits-special-info {
